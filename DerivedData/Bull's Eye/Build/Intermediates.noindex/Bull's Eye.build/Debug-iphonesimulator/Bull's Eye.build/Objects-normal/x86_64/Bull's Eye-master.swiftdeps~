@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "7f9d648eacc2699c6620d9e3bd03636f"
+build_time: [1613946891, 197837000]
+inputs:
+  "/Users/ataiakishev/Desktop/App Creating /Bull's Eye/Bull's Eye/ViewController.swift": [1613796449, 911546325]
+  "/Users/ataiakishev/Desktop/App Creating /Bull's Eye/Bull's Eye/AppDelegate.swift": [1597202203, 356612973]
+  "/Users/ataiakishev/Desktop/App Creating /Bull's Eye/Bull's Eye/AboutUIViewController.swift": [1597977058, 0]
+  "/Users/ataiakishev/Desktop/App Creating /Bull's Eye/Bull's Eye/SceneDelegate.swift": [1597202203, 364771925]
